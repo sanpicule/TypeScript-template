@@ -55,8 +55,8 @@ npm install --save-dev typescript ts-loader webpack webpack-cli webpack-dev-serv
 | eslint-config-prettier | eslintとprettierを併用する際に必要なパッケージ |
 | @typescript-eslint/eslint-plugin | eslintでTypeScriptのチェックを行うパッケージ |
 | @typescript-eslint/parser | eslintでTypeScriptを解析できるようにするパッケージ |
-| husky | Gitコマンドをフックに別のコマンドを実行できるパッケージ |
-| lint-staged | commitしたファイルに対してlint(今回はPrettierも)を実行できるパッケージ |
+| husky（今回未使用） | Gitコマンドをフックに別のコマンドを実行できるパッケージ |
+| lint-staged（今回未使用） | commitしたファイルに対してlint(今回はPrettierも)を実行できるパッケージ |
 
 <br>
 
